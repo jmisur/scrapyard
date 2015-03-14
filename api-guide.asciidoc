@@ -63,5 +63,5 @@ A `GET` request is used to access the index
 
 ==== Example request/response
 
-include::{generated}/index/request-response.asciidoc[]
+include::request-response.asciidoc[]
 

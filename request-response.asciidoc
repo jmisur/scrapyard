@@ -1,0 +1,18 @@
+
+[source,bash]
+----
+$ curl http://localhost:8083/ -i -H "Accept: application/json"
+----
+
+
+[source,http]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+
+{
+  "code" : 0,
+  "message" : "Success"
+}
+----
+
