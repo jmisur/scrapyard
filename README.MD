@@ -5,4 +5,4 @@ asd
 lalala
 =======
 asdas
->>>>>>> origin/master
+>>>>>>> origin/masterasd a
